@@ -1,13 +1,37 @@
-<h1 align="center">Hi 👋, I'm Jonghwa</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonghwa3471&label=Profile%20views&color=0e75b6&style=flat" alt="jonghwa3471" /> </p>
+![](https://workers-visitors.wlsdnr129.workers.dev/visit?username=jonghwa3471)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jonghwa's%20Github🚀&fontSize=90)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonghwa3471&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonghwa3471&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+|--|--|
+  
+<hr>
+<h3>⚔ Tech Stack ⚔</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonghwa3471&show_icons=true&locale=en&layout=compact" alt="jonghwa3471" /></p>
+<strong> Techs that I've used at least once </strong>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonghwa3471&show_icons=true&locale=en" alt="jonghwa3471" /></p>
+<img height='25' src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img height='25' src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<img height='25' src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<br>
+<img height='25' src="https://img.shields.io/badge/Pug-A86454?style=flat-square&logo=Pug&logoColor=white"/>
+<img height='25' src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
+<br>
+<img height='25' src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<img height='25' src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
+<br>
+<img height='25' src="https://img.shields.io/badge/Gulp-CF4647?style=flat-square&logo=Gulp&logoColor=white"/>
+<img height='25' src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>
+<br>
+<img height='25' src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+<img height='25' src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+<br>
+<img height='25' src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img height='25' src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"/>
+<img height='25' src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
+<br>
+  
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+</div>
