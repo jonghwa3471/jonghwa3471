@@ -27,6 +27,7 @@
 <img height='25' src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=flat-square&logo=gatsby&logoColor=white"/>
 <br>
+<img height='25' src="https://img.shields.io/badge/Graphql-E10098?style=flat-square&logo=Graphql&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/Gulp-CF4647?style=flat-square&logo=Gulp&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>
 <br>
