@@ -50,11 +50,6 @@
 <img height='25' src="https://img.shields.io/badge/Render-12100E?style=flat-square&logo=render&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/Fly.io-430098?style=flat-square&logo=flydotio&logoColor=white"/>
 <br>
-
-<hr>
-<a href="https://solved.ac/jonghwa3471/">
-  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jonghwa3471" alt="Solved.ac Profile" />
-</a>
   
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 </div>
