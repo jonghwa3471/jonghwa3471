@@ -46,6 +46,7 @@
 <br>
 <img height='25' src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
+<img height='25' src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=3FCF8E"/>
 <img height='25' src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
