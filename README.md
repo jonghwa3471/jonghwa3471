@@ -42,12 +42,13 @@
 <img height='25' src="https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollographql&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/Gulp-CF4647?style=flat-square&logo=Gulp&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>
-<img height='25' src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
 <br>
 <img height='25' src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 <img height="25" src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=realm&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img height='25' src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+<img height='25' src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
 <br>
 <img height='25' src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
