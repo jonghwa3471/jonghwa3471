@@ -32,6 +32,7 @@
 <img height="25" src="https://img.shields.io/badge/Expo-20232A?style=flat-square&logo=expo&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/Remix-000000?style=flat-square&logo=remix&logoColor=white"/>
+<img height='25' src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/Zod-3068b7?style=flat-square&logo=zod&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=white"/>
