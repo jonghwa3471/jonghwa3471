@@ -70,5 +70,79 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-863%20hrs%2034%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 116.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 340 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 76 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+🌆 Daytime                792 commits         ████████████░░░░░░░░░░░░░   48.74 % 
+🌃 Evening                607 commits         █████████░░░░░░░░░░░░░░░░   37.35 % 
+🌙 Night                  39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   283 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+Tuesday                  280 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+Wednesday                321 commits         █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+Thursday                 273 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Friday                   252 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Saturday                 119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Sunday                   97 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+TypeScript               19 hrs 8 mins       █████████████████████████   99.07 % 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+
+🔥 Editors: 
+Cursor                   19 hrs 19 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+wemake                   19 hrs 19 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      19 hrs 19 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               23 repos            ████████░░░░░░░░░░░░░░░░░   31.08 % 
+JavaScript               19 repos            ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
+HTML                     13 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/jonghwa3471/jonghwa3471/main/assets/bar_graph.png)
+
+
+ Last Updated on 18/05/2026 05:07:22 UTC
 <!--END_SECTION:waka-->
 </div>
