@@ -68,4 +68,7 @@
 <br>
   
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </div>
