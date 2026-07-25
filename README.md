@@ -97,24 +97,25 @@ Sunday                   98 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               13 hrs 12 mins      █████████████████████░░░░   85.99 % 
-Bash                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-SQL                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+TypeScript               14 hrs 39 mins      ████████████████████░░░░░   81.68 % 
+Bash                     1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+Other                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+TSConfig                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🔥 Editors: 
-Cursor                   15 hrs 21 mins      █████████████████████████   100.00 % 
+Cursor                   17 hrs 56 mins      █████████████████████████   99.94 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-wemake                   15 hrs 12 mins      █████████████████████████   98.96 % 
-github-plugin-github-open8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-linear-plugin-linear-open0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-github-plugin-github-open0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-google-drive-plugin-googl0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+wemake                   15 hrs 15 mins      █████████████████████░░░░   85.05 % 
+supaplate-master         2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+github-plugin-github-open8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+eokka                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+linear-plugin-linear-open0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Mac                      15 hrs 21 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -130,6 +131,6 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 19:57:04 UTC
+ Last Updated on 25/07/2026 19:44:12 UTC
 <!--END_SECTION:waka-->
 </div>
