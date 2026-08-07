@@ -70,8 +70,6 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%208%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-505.03%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -99,43 +97,43 @@ Sunday                   98 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 20 mins       ██████████████████████░░░   86.45 % 
-JSON                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+TypeScript               3 hrs 11 mins       ██████████████████████░░░   87.87 % 
+Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-Cursor                   6 hrs 10 mins       █████████████████████████   100.00 % 
+Cursor                   3 hrs 38 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-supaplate-master         4 hrs 9 mins        █████████████████░░░░░░░░   67.37 % 
-eokka                    1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   28.97 % 
-new-chat                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+supaplate-master         2 hrs 32 mins       █████████████████░░░░░░░░   69.67 % 
+eokka                    52 mins             ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
+new-chat                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
 
 💻 Operating System: 
-Mac                      6 hrs 10 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 52 mins (95.03%)
+⏱ AI Coding Time: 3 hrs 34 mins (97.97%)
 
-✍️ 2,255 lines written by AI, 1 lines written by hand (99.96% AI-written)
+✍️ 2,026 lines written by AI, 1 lines written by hand (99.95% AI-written)
 
-🔤 87,550,074 Input Tokens, 201,539 Output Tokens
+🔤 67,605,058 Input Tokens, 157,665 Output Tokens
 
-💵 $342.73 Estimated AI Cost This Week
+💵 $259.34 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 195 AI Prompts
+🧠 3 AI Sessions, 134 AI Prompts
 
-GPT                      2,525 lines         █████████████████████████   100.00 % 
+GPT                      2,218 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📚 Verbose Prompter — average 5,957 characters per prompt
-🔁 Iterative Prompter — average 39 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+🤖 AI-Driven — 99.95% of written lines came from AI
+📚 Verbose Prompter — average 6,401 characters per prompt
+🔁 Iterative Prompter — average 45 prompts per session
+🚀 High AI Trust — 0.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -151,6 +149,6 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 20:09:57 UTC
+ Last Updated on 07/08/2026 00:25:22 UTC
 <!--END_SECTION:waka-->
 </div>
