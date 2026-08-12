@@ -99,46 +99,45 @@ Sunday                   100 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 8 mins        ████████████████████░░░░░   78.16 % 
-Other                    1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-MDX                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+TypeScript               3 hrs 56 mins       ██████████████████░░░░░░░   71.73 % 
+Other                    1 hr                █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+MDX                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
 🔥 Editors: 
-Cursor                   8 hrs 19 mins       ███████████████████████░░   91.11 % 
-Agent                    48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Cursor                   4 hrs 41 mins       █████████████████████░░░░   85.23 % 
+Agent                    48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
 
 🐱‍💻 Projects: 
-supaplate-master         5 hrs 57 mins       ████████████████░░░░░░░░░   65.10 % 
-eokka                    2 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   32.42 % 
-new-chat                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+supaplate-master         3 hrs 24 mins       ████████████████░░░░░░░░░   62.07 % 
+eokka                    2 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   37.93 % 
 
 💻 Operating System: 
-Mac                      9 hrs 8 mins        █████████████████████████   100.00 % 
+Mac                      5 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 59 mins (98.38%)
+⏱ AI Coding Time: 5 hrs 25 mins (98.65%)
 
-✍️ 4,696 lines written by AI, 7 lines written by hand (99.85% AI-written)
+✍️ 2,670 lines written by AI, 6 lines written by hand (99.78% AI-written)
 
-🔤 87,570,434 Input Tokens, 1,485,699 Output Tokens
+🔤 19,965,376 Input Tokens, 1,328,034 Output Tokens
 
-💵 $310.15 Estimated AI Cost This Week
+💵 $50.81 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 335 AI Prompts
+🧠 10 AI Sessions, 201 AI Prompts
 
-GPT                      4,525 lines         █████████████████████████   100.00 % 
+GPT                      2,307 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.85% of written lines came from AI
-📚 Verbose Prompter — average 6,468 characters per prompt
-🔁 Iterative Prompter — average 26 prompts per session
-🚀 High AI Trust — 0.14% of changed lines were hand-edited
+🤖 AI-Driven — 99.78% of written lines came from AI
+📚 Verbose Prompter — average 6,514 characters per prompt
+🔁 Iterative Prompter — average 20 prompts per session
+🚀 High AI Trust — 0.22% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -154,6 +153,6 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2026 19:36:27 UTC
+ Last Updated on 12/08/2026 19:39:18 UTC
 <!--END_SECTION:waka-->
 </div>
