@@ -70,7 +70,7 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-52%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-55%20hrs%2014%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-515.86%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -99,45 +99,45 @@ Sunday                   100 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   12 hrs 9 mins       █████████████████████░░░░   84.74 % 
-Text                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-Git Config               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-TypeScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Python                   10 hrs 55 mins      ███████████████████████░░   93.53 % 
+MDX                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🔥 Editors: 
-Cursor                   12 hrs              █████████████████████░░░░   83.66 % 
-Agent                    2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Cursor                   9 hrs 57 mins       █████████████████████░░░░   85.25 % 
+Agent                    1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-fullstack-gpt            13 hrs 52 mins      ████████████████████████░   96.69 % 
-eokka                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+fullstack-gpt            11 hrs 27 mins      █████████████████████████   98.07 % 
+eokka                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 💻 Operating System: 
-Mac                      14 hrs 20 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 22 mins (58.36%)
+⏱ AI Coding Time: 6 hrs 8 mins (52.53%)
 
-✍️ 0 lines written by AI, 2,305 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2,103 lines written by hand (0.0% AI-written)
 
-🔤 216,505 Input Tokens, 216,505 Output Tokens
+🔤 202,741 Input Tokens, 202,741 Output Tokens
 
-💵 $3.89 Estimated AI Cost This Week
+💵 $3.65 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 300 AI Prompts
+🧠 14 AI Sessions, 267 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 2,888 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
+📚 Verbose Prompter — average 3,039 characters per prompt
+🔁 Iterative Prompter — average 19 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -154,6 +154,6 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026 19:12:04 UTC
+ Last Updated on 21/08/2026 19:08:39 UTC
 <!--END_SECTION:waka-->
 </div>
