@@ -70,7 +70,7 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-60%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-62%20hrs%2048%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-518.74%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -99,49 +99,47 @@ Sunday                   100 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   7 hrs 39 mins       ████████████░░░░░░░░░░░░░   48.39 % 
-TypeScript               5 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   35.41 % 
-Other                    1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-MDX                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+TypeScript               5 hrs 46 mins       █████████████░░░░░░░░░░░░   51.28 % 
+Python                   3 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   29.65 % 
+Other                    1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🔥 Editors: 
-Cursor                   8 hrs 24 mins       █████████████░░░░░░░░░░░░   53.14 % 
-Codex Vscode             5 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   32.25 % 
-Agent                    2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Codex Vscode             5 hrs 5 mins        ███████████░░░░░░░░░░░░░░   45.30 % 
+Cursor                   4 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   39.04 % 
+Agent                    1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
 
 🐱‍💻 Projects: 
-fullstack-gpt            8 hrs               █████████████░░░░░░░░░░░░   50.66 % 
-eokka                    6 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   39.28 % 
-supaplate-master         1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+eokka                    6 hrs 9 mins        ██████████████░░░░░░░░░░░   54.72 % 
+fullstack-gpt            3 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   31.14 % 
+supaplate-master         1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
 
 💻 Operating System: 
-Mac                      15 hrs 48 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 44 mins (80.62%)
+⏱ AI Coding Time: 10 hrs 27 mins (92.96%)
 
-✍️ 2,791 lines written by AI, 1,288 lines written by hand (68.42% AI-written)
+✍️ 2,791 lines written by AI, 244 lines written by hand (91.96% AI-written)
 
-🔤 8,377,813 Input Tokens, 309,116 Output Tokens
+🔤 8,348,396 Input Tokens, 279,699 Output Tokens
 
-💵 $51.87 Estimated AI Cost This Week
+💵 $51.35 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 376 AI Prompts
+🧠 18 AI Sessions, 306 AI Prompts
 
 GPT                      2,819 lines         ███████████████████████░░   92.21 % 
 Composer                 238 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 68.42% of written lines came from AI
-📚 Verbose Prompter — average 4,811 characters per prompt
-🔁 Iterative Prompter — average 21 prompts per session
-🚀 High AI Trust — 45.88% of changed lines were hand-edited
+🤖 AI-Driven — 91.96% of written lines came from AI
+📚 Verbose Prompter — average 5,527 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🚀 High AI Trust — 16.25% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -157,6 +155,6 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026 19:10:37 UTC
+ Last Updated on 26/08/2026 20:36:38 UTC
 <!--END_SECTION:waka-->
 </div>
