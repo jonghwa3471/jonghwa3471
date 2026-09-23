@@ -70,28 +70,28 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-109%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-113%20hrs%2014%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-559.42%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-560.16%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                222 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-🌆 Daytime                916 commits         █████████████░░░░░░░░░░░░   50.14 % 
-🌃 Evening                650 commits         █████████░░░░░░░░░░░░░░░░   35.58 % 
+🌞 Morning                224 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+🌆 Daytime                919 commits         █████████████░░░░░░░░░░░░   50.16 % 
+🌃 Evening                650 commits         █████████░░░░░░░░░░░░░░░░   35.48 % 
 🌙 Night                  39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   321 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-Tuesday                  315 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Wednesday                368 commits         █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-Thursday                 316 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
-Friday                   283 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Saturday                 120 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-Sunday                   104 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+Monday                   321 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Tuesday                  315 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+Wednesday                373 commits         █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+Thursday                 316 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Friday                   283 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Saturday                 120 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+Sunday                   104 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 ```
 
 
@@ -99,47 +99,47 @@ Sunday                   104 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 47 mins       █████████████░░░░░░░░░░░░   52.04 % 
-Python                   4 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   29.91 % 
-Other                    2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-HTML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-CSS                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+TypeScript               7 hrs 8 mins        █████████████░░░░░░░░░░░░   53.66 % 
+Python                   3 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   27.41 % 
+Other                    2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+HTML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+CSS                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🔥 Editors: 
-Cursor                   8 hrs 10 mins       ██████████████░░░░░░░░░░░   54.57 % 
-Codex Vscode             3 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
-Agent                    2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+Cursor                   6 hrs 59 mins       █████████████░░░░░░░░░░░░   52.53 % 
+Codex Vscode             3 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+Agent                    2 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
 
 🐱‍💻 Projects: 
-eokka                    7 hrs 56 mins       █████████████░░░░░░░░░░░░   52.95 % 
-fullstack-gpt            4 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   30.37 % 
-supaplate-master         2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+eokka                    7 hrs 15 mins       ██████████████░░░░░░░░░░░   54.62 % 
+fullstack-gpt            3 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   27.70 % 
+supaplate-master         2 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
 
 💻 Operating System: 
-Mac                      14 hrs 59 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 10 mins (87.88%)
+⏱ AI Coding Time: 11 hrs 49 mins (88.88%)
 
-✍️ 5,268 lines written by AI, 493 lines written by hand (91.44% AI-written)
+✍️ 5,327 lines written by AI, 107 lines written by hand (98.03% AI-written)
 
-🔤 13,624,186 Input Tokens, 975,604 Output Tokens
+🔤 6,531,822 Input Tokens, 518,826 Output Tokens
 
-💵 $298.52 Estimated AI Cost This Week
+💵 $67.63 Estimated AI Cost This Week
 
-🧠 31 AI Sessions, 839 AI Prompts
+🧠 27 AI Sessions, 726 AI Prompts
 
-GPT                      5,884 lines         █████████████████████████   100.00 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      5,974 lines         █████████████████████████   98.18 % 
+Composer                 111 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.44% of written lines came from AI
-📚 Verbose Prompter — average 15,252 characters per prompt
+🤖 AI-Driven — 98.03% of written lines came from AI
+📚 Verbose Prompter — average 11,859 characters per prompt
 🔁 Iterative Prompter — average 27 prompts per session
-🚀 High AI Trust — 9.56% of changed lines were hand-edited
+🚀 High AI Trust — 2.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -155,6 +155,6 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2026 21:35:47 UTC
+ Last Updated on 23/09/2026 21:41:55 UTC
 <!--END_SECTION:waka-->
 </div>
