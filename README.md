@@ -70,28 +70,28 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-128%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-132%20hrs%206%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-587.45%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-593.95%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                234 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-🌆 Daytime                936 commits         █████████████░░░░░░░░░░░░   50.24 % 
-🌃 Evening                654 commits         █████████░░░░░░░░░░░░░░░░   35.10 % 
+🌞 Morning                236 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+🌆 Daytime                939 commits         █████████████░░░░░░░░░░░░   50.27 % 
+🌃 Evening                654 commits         █████████░░░░░░░░░░░░░░░░   35.01 % 
 🌙 Night                  39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   330 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Tuesday                  321 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Wednesday                382 commits         █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-Thursday                 322 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Friday                   283 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Saturday                 121 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-Sunday                   104 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Monday                   330 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Tuesday                  321 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Wednesday                387 commits         █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
+Thursday                 322 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Friday                   283 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Saturday                 121 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Sunday                   104 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 ```
 
 
@@ -99,45 +99,48 @@ Sunday                   104 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    7 hrs 34 mins       ███████████░░░░░░░░░░░░░░   44.95 % 
-TypeScript               3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-Python                   1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-JavaScript               1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-Markdown                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+Other                    5 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   35.76 % 
+TypeScript               3 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
+JavaScript               1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Markdown                 1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+Python                   1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
 
 🔥 Editors: 
-Codex Vscode             8 hrs 33 mins       █████████████░░░░░░░░░░░░   50.73 % 
-Cursor                   8 hrs 18 mins       ████████████░░░░░░░░░░░░░   49.27 % 
+Codex Vscode             9 hrs 14 mins       ████████████████░░░░░░░░░   62.27 % 
+Cursor                   5 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   35.05 % 
+Claude Code              23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 🐱‍💻 Projects: 
-supaplate-master         10 hrs 40 mins      ████████████████░░░░░░░░░   63.31 % 
-eokka                    4 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
-fullstack-gpt            1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+supaplate-master         8 hrs 24 mins       ██████████████░░░░░░░░░░░   56.62 % 
+eokka                    4 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   31.90 % 
+fullstack-gpt            1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+clipper                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 💻 Operating System: 
-Mac                      16 hrs 51 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 49 mins (87.88%)
+⏱ AI Coding Time: 13 hrs 31 mins (91.18%)
 
-✍️ 8,052 lines written by AI, 112 lines written by hand (98.63% AI-written)
+✍️ 6,415 lines written by AI, 53 lines written by hand (99.18% AI-written)
 
-🔤 21,650,631 Input Tokens, 1,622,233 Output Tokens
+🔤 19,933,014 Input Tokens, 1,573,161 Output Tokens
 
-💵 $351.75 Estimated AI Cost This Week
+💵 $351.66 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 709 AI Prompts
+🧠 23 AI Sessions, 473 AI Prompts
 
-GPT                      8,360 lines         █████████████████████████   100.00 % 
+GPT                      6,653 lines         █████████████████████████   99.08 % 
+Opus                     62 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.63% of written lines came from AI
-📚 Verbose Prompter — average 26,172 characters per prompt
-🔁 Iterative Prompter — average 28 prompts per session
-🚀 High AI Trust — 1.62% of changed lines were hand-edited
+🤖 AI-Driven — 99.18% of written lines came from AI
+📚 Verbose Prompter — average 20,609 characters per prompt
+🔁 Iterative Prompter — average 21 prompts per session
+🚀 High AI Trust — 0.93% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -153,6 +156,6 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 22:45:55 UTC
+ Last Updated on 07/10/2026 23:16:49 UTC
 <!--END_SECTION:waka-->
 </div>
