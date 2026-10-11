@@ -99,49 +99,49 @@ Sunday                   104 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   33.99 % 
-Other                    2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-JavaScript               1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Python                   1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-Markdown                 1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+TypeScript               3 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   35.78 % 
+Other                    2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
+Python                   1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Markdown                 1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+JavaScript               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
 
 🔥 Editors: 
-Codex Vscode             7 hrs 57 mins       ██████████████████░░░░░░░   70.38 % 
-Cursor                   2 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   26.10 % 
-Claude Code              23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Codex Vscode             7 hrs 32 mins       ██████████████████░░░░░░░   70.68 % 
+Cursor                   2 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
+Claude Code              23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 
 🐱‍💻 Projects: 
-supaplate-master         4 hrs 56 mins       ███████████░░░░░░░░░░░░░░   43.72 % 
-eokka                    4 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   39.69 % 
-fullstack-gpt            1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-clipper                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-film-camera-app          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+eokka                    4 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   41.67 % 
+supaplate-master         4 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   40.75 % 
+fullstack-gpt            1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+clipper                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+film-camera-app          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 💻 Operating System: 
-Mac                      11 hrs 18 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 52 mins (87.21%)
+⏱ AI Coding Time: 9 hrs 13 mins (86.47%)
 
-✍️ 4,772 lines written by AI, 7 lines written by hand (99.85% AI-written)
+✍️ 4,448 lines written by AI, 7 lines written by hand (99.84% AI-written)
 
-🔤 15,319,926 Input Tokens, 1,454,179 Output Tokens
+🔤 14,718,991 Input Tokens, 1,418,796 Output Tokens
 
-💵 $329.34 Estimated AI Cost This Week
+💵 $316.99 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 176 AI Prompts
+🧠 10 AI Sessions, 138 AI Prompts
 
-GPT                      4,695 lines         ████████████████████████░   94.33 % 
-Codex-Vscode             220 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-Opus                     62 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+GPT                      4,371 lines         ███████████████████████░░   93.94 % 
+Codex-Vscode             220 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Opus                     62 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.85% of written lines came from AI
-📚 Verbose Prompter — average 4,061 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
+🤖 AI-Driven — 99.84% of written lines came from AI
+📚 Verbose Prompter — average 1,740 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
 🚀 High AI Trust — 0.28% of changed lines were hand-edited
 ```
 
@@ -158,6 +158,6 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2026 21:57:26 UTC
+ Last Updated on 11/10/2026 22:18:56 UTC
 <!--END_SECTION:waka-->
 </div>
