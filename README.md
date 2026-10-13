@@ -99,48 +99,48 @@ Sunday                   104 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   28.91 % 
-Python                   3 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
-Other                    3 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
-Markdown                 1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-AppleScript              24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+TypeScript               3 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   35.43 % 
+Other                    2 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   26.89 % 
+Python                   2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+Markdown                 52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 🔥 Editors: 
-Codex Vscode             9 hrs 6 mins        ████████████████░░░░░░░░░   63.53 % 
-Cursor                   4 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   33.70 % 
-Claude Code              23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Codex Vscode             6 hrs 10 mins       ████████████████░░░░░░░░░   63.25 % 
+Cursor                   3 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   32.67 % 
+Claude Code              23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 
 🐱‍💻 Projects: 
-eokka                    5 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   37.13 % 
-supaplate-master         4 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   34.66 % 
-fullstack-gpt            3 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
-clipper                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+eokka                    4 hrs 14 mins       ███████████░░░░░░░░░░░░░░   43.55 % 
+supaplate-master         2 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   28.32 % 
+fullstack-gpt            2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
+clipper                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 
 💻 Operating System: 
-Mac                      14 hrs 21 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 37 mins (81.03%)
+⏱ AI Coding Time: 8 hrs 13 mins (84.3%)
 
-✍️ 4,584 lines written by AI, 127 lines written by hand (97.3% AI-written)
+✍️ 2,394 lines written by AI, 120 lines written by hand (95.23% AI-written)
 
-🔤 28,793,464 Input Tokens, 2,775,858 Output Tokens
+🔤 16,039,996 Input Tokens, 1,549,982 Output Tokens
 
-💵 $624.89 Estimated AI Cost This Week
+💵 $361.51 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 123 AI Prompts
+🧠 6 AI Sessions, 90 AI Prompts
 
-GPT                      4,843 lines         █████████████████████████   98.74 % 
-Opus                     62 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+GPT                      2,640 lines         ████████████████████████░   97.71 % 
+Opus                     62 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.3% of written lines came from AI
-📝 Concise Prompter — average 300 characters per prompt
+🤖 AI-Driven — 95.23% of written lines came from AI
+📝 Concise Prompter — average 375 characters per prompt
 🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 2.85% of changed lines were hand-edited
+🚀 High AI Trust — 4.62% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -156,6 +156,6 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 00:56:23 UTC
+ Last Updated on 13/10/2026 23:02:27 UTC
 <!--END_SECTION:waka-->
 </div>
