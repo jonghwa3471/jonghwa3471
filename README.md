@@ -70,7 +70,7 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-154%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-154%20hrs%2055%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-916.09%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -99,46 +99,46 @@ Sunday                   114 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    6 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   39.91 % 
-TypeScript               4 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
-Bash                     1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-Python                   1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-HTML                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Other                    6 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   40.34 % 
+TypeScript               4 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
+Bash                     1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Python                   1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+HTML                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
 
 🔥 Editors: 
-Codex Vscode             11 hrs 13 mins      █████████████████░░░░░░░░   69.46 % 
-Cursor                   4 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   30.54 % 
+Codex Vscode             11 hrs 13 mins      █████████████████░░░░░░░░   68.66 % 
+Cursor                   5 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   31.34 % 
 
 🐱‍💻 Projects: 
-supaplate-master         6 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   39.91 % 
-eokka                    5 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   36.32 % 
-portfolio                2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-fullstack-gpt            1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+supaplate-master         6 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   40.24 % 
+eokka                    5 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   36.16 % 
+portfolio                2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+fullstack-gpt            1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
 
 💻 Operating System: 
-Mac                      16 hrs 9 mins       █████████████████████████   100.00 % 
+Mac                      16 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 27 mins (89.52%)
+⏱ AI Coding Time: 14 hrs 36 mins (89.38%)
 
 ✍️ 2,566 lines written by AI, 52 lines written by hand (98.01% AI-written)
 
-🔤 24,163,044 Input Tokens, 2,177,352 Output Tokens
+🔤 24,587,922 Input Tokens, 2,180,015 Output Tokens
 
-💵 $559.27 Estimated AI Cost This Week
+💵 $561.47 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 230 AI Prompts
+🧠 7 AI Sessions, 233 AI Prompts
 
 GPT                      2,642 lines         █████████████████████████   99.92 % 
 Cursor                   2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 98.01% of written lines came from AI
-📝 Concise Prompter — average 191 characters per prompt
-🔁 Iterative Prompter — average 46 prompts per session
+📝 Concise Prompter — average 189 characters per prompt
+🔁 Iterative Prompter — average 33 prompts per session
 🚀 High AI Trust — 2.18% of changed lines were hand-edited
 ```
 
@@ -155,6 +155,6 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 22:35:16 UTC
+ Last Updated on 20/10/2026 21:49:27 UTC
 <!--END_SECTION:waka-->
 </div>
