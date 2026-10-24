@@ -99,46 +99,46 @@ Sunday                   114 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     1 hr 59 mins        █████████░░░░░░░░░░░░░░░░   34.81 % 
-CSS                      1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
-Other                    57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-TypeScript               38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-JavaScript               32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+HTML                     1 hr 59 mins        ███████████░░░░░░░░░░░░░░   42.96 % 
+CSS                      1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
+Other                    35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+JavaScript               29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Markdown                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 6 mins        ██████████████████░░░░░░░   71.89 % 
-Codex Vscode             1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   28.11 % 
+Cursor                   4 hrs 2 mins        ██████████████████████░░░   87.00 % 
+Codex Vscode             36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
 
 🐱‍💻 Projects: 
-portfolio                4 hrs 11 mins       ██████████████████░░░░░░░   73.08 % 
-eokka                    46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-supaplate-master         45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+portfolio                4 hrs 11 mins       ███████████████████████░░   90.20 % 
+supaplate-master         23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+eokka                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 💻 Operating System: 
-Mac                      5 hrs 43 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 40 mins (99.19%)
+⏱ AI Coding Time: 4 hrs 35 mins (99.11%)
 
-✍️ 949 lines written by AI, 1 lines written by hand (99.89% AI-written)
+✍️ 873 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 21,398,370 Input Tokens, 1,956,559 Output Tokens
+🔤 1,580,326 Input Tokens, 173,620 Output Tokens
 
-💵 $461.87 Estimated AI Cost This Week
+💵 $25.83 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 41 AI Prompts
+🧠 6 AI Sessions, 29 AI Prompts
 
-GPT                      952 lines           █████████████████████████   99.79 % 
-Cursor                   2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+GPT                      872 lines           █████████████████████████   99.77 % 
+Cursor                   2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.89% of written lines came from AI
-📝 Concise Prompter — average 471 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.21% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 388 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -154,6 +154,6 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 21:36:37 UTC
+ Last Updated on 24/10/2026 21:05:48 UTC
 <!--END_SECTION:waka-->
 </div>
