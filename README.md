@@ -77,19 +77,19 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                307 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-🌆 Daytime                1118 commits        █████████████░░░░░░░░░░░░   51.26 % 
-🌃 Evening                716 commits         ████████░░░░░░░░░░░░░░░░░   32.83 % 
+🌞 Morning                307 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+🌆 Daytime                1120 commits        █████████████░░░░░░░░░░░░   51.31 % 
+🌃 Evening                716 commits         ████████░░░░░░░░░░░░░░░░░   32.80 % 
 🌙 Night                  40 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   398 commits         █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-Tuesday                  347 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Wednesday                479 commits         █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-Thursday                 374 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-Friday                   336 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Monday                   398 commits         █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+Tuesday                  347 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Wednesday                481 commits         ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+Thursday                 374 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+Friday                   336 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
 Saturday                 132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 Sunday                   115 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 ```
@@ -99,45 +99,40 @@ Sunday                   115 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     3 hrs 50 mins       ███████████████░░░░░░░░░░   61.71 % 
-TypeScript               1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-CSS                      54 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+JSON                     56 mins             ████████░░░░░░░░░░░░░░░░░   32.12 % 
+CSS                      54 mins             ████████░░░░░░░░░░░░░░░░░   31.21 % 
+TypeScript               52 mins             ███████░░░░░░░░░░░░░░░░░░   29.67 % 
+JavaScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
 
 🔥 Editors: 
-Cursor                   3 hrs 19 mins       █████████████░░░░░░░░░░░░   53.46 % 
-VS Code                  2 hrs 53 mins       ████████████░░░░░░░░░░░░░   46.54 % 
+Cursor                   2 hrs 55 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portfolio                6 hrs 4 mins        ████████████████████████░   97.52 % 
-portfolio-social-coin    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-portfolio-weather        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-seleniumpro              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+portfolio                2 hrs 55 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 13 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 13 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 55 mins (100.0%)
 
-✍️ 989 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 528 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,264,312 Input Tokens, 131,691 Output Tokens
+🔤 1,270,111 Input Tokens, 66,381 Output Tokens
 
-💵 $26.39 Estimated AI Cost This Week
+💵 $10.48 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 121 AI Prompts
+🧠 1 AI Sessions, 62 AI Prompts
 
-GPT                      1,018 lines         █████████████████████████   100.00 % 
+GPT                      548 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 148 characters per prompt
-🔁 Iterative Prompter — average 60 prompts per session
+📝 Concise Prompter — average 197 characters per prompt
+🔁 Iterative Prompter — average 62 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -154,6 +149,6 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/11/2026 05:04:14 UTC
+ Last Updated on 12/11/2026 00:57:40 UTC
 <!--END_SECTION:waka-->
 </div>
